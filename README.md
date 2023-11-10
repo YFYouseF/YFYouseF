@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YFYouseF
-- 👀 I’m interested in video games very mutch
-- 🌱 I’m currently learning Unity3d games programing
+- 👋 Hi, I’m YF YouseF
+- 👀 I’m interested in UI so mutch
+- 🌱 I’m currently learning a few languages like Javascript and SQL and python 
 - 💕good bay💕
 
 <!---
